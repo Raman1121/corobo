@@ -69,7 +69,7 @@ class Explain(BotPlugin):
                   'duckduckgo. Anything. The search engine that earned your '
                   'trust. You got a build error? Search for the first red '
                   'thing and google it. You got an exception? *Read the '
-                  'message.* Search it. *Think.*\n\nKeep this in mind: *You*'
+                  'message.* Search it. *Think.*\n\nKeep this in mind: *You* '
                   'are sitting in front of the problem, not us. You will have '
                   'a much easier time solving it. That\'s why you should try '
                   'doing it first.',
